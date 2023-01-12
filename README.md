@@ -13,8 +13,6 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali4943&layout=compact&theme=tokyonight)
 
-[![@ajjlalahmed's Holopin board](https://holopin.io/api/user/board?user=ajjlalahmed)](https://holopin.io/@ajjlalahmed)
-
 ## 🛠 Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
