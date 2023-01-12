@@ -1,16 +1,29 @@
-### Hi there 👋
+## I'm a Full Stack Developer
 
-<!--
-**hamzaali4943/hamzaali4943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning everything. 
+- ⚡ Fun fact: I love to play guitar.
 
-Here are some ideas to get you started:
+I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨My Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzaali4943&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hamzaali4943&count_private=true&theme=tokyonight&showicons=true)
+
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali4943&layout=compact&theme=tokyonight)
+
+[![@ajjlalahmed's Holopin board](https://holopin.io/api/user/board?user=ajjlalahmed)](https://holopin.io/@ajjlalahmed)
+
+## 🛠 Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
