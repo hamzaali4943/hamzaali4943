@@ -9,10 +9,6 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaali4943)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://streak-stats.demolab.com/?user=hamzaali4943)](https://git.io/streak-stats)
-
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali4943&layout=compact&theme=tokyonight)
-
 ## 🛠 Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
