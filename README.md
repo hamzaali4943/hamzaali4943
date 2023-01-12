@@ -7,7 +7,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ## ✨My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaali4943)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaali4943&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠 Languages and Tools
 
