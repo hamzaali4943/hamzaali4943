@@ -7,7 +7,7 @@ I'm a self-taught passionate Full Stack Developer from Pakistan PK. I love being
 
 ## ✨My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzaali4943&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaali4943)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hamzaali4943&count_private=true&theme=tokyonight&showicons=true)
 
