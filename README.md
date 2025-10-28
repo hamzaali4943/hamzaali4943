@@ -13,9 +13,9 @@
 
 ## 🎯 **ABOUT ME**
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Check_It_Out-58A6FF?style=for-the-badge&logoColor=white&labelColor=000000)](YOUR_PORTFOLIO_URL)
-[![Upwork](https://img.shields.io/badge/⭐_UPWORK-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000)](YOUR_UPWORK_URL)
-[![LinkedIn](https://img.shields.io/badge/🤝_LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Check_It_Out-58A6FF?style=for-the-badge&logoColor=white&labelColor=000000)]([YOUR_PORTFOLIO_URL](https://www.upwork.com/freelancers/~017b2a3c59458d39f4?mp_source=share))
+[![Upwork](https://img.shields.io/badge/⭐_UPWORK-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000)]([YOUR_UPWORK_URL](https://www.upwork.com/freelancers/~017b2a3c59458d39f4?mp_source=share))
+[![LinkedIn](https://img.shields.io/badge/🤝_LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](www.linkedin.com/in/hamza-zafar-0a2bab190)
 [![Email](https://img.shields.io/badge/📧_EMAIL-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hamzaali4942@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=hamzaali4943&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
