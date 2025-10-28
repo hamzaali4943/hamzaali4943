@@ -147,21 +147,21 @@ I specialize in building scalable web applications using **PHP/Laravel**, **Vue.
 
 **🌐 Portfolio**
 
-[View My Work](YOUR_PORTFOLIO_URL)
+[View My Work]([YOUR_PORTFOLIO_URL](https://www.upwork.com/freelancers/~017b2a3c59458d39f4?mp_source=share))
 
 </td>
 <td align="center" width="20%">
 
 **⭐ Upwork**
 
-[Top Rated Profile](YOUR_UPWORK_URL)
+[Top Rated Profile]([YOUR_UPWORK_URL](https://www.upwork.com/freelancers/~017b2a3c59458d39f4?mp_source=share))
 
 </td>
 <td align="center" width="20%">
 
 **🔗 LinkedIn**
 
-[Connect With Me](YOUR_LINKEDIN_URL)
+[Connect With Me](www.linkedin.com/in/hamza-zafar-0a2bab190)
 
 </td>
 <td align="center" width="20%">
@@ -175,7 +175,7 @@ I specialize in building scalable web applications using **PHP/Laravel**, **Vue.
 
 **💬 Let's Talk**
 
-[Start a Chat](YOUR_CONTACT_URL)
+[Start a Chat](mailto:hamzaali4942@gmail.com)
 
 </td>
 </tr>
