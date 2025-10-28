@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HEY THERE, I'M HAMZA ALI
+# 👋 HEY THERE, I'M HAMZA ZAFAR
 ### `Full Stack Developer | Code Enthusiast | Guitar Player`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+My+Coding+Journey+%F0%9F%9A%80;Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%92%BB" alt="Typing Animation" />
@@ -55,7 +55,7 @@ const hamzaAli = {
 ```
 
 ### 🌟 **WHAT DRIVES ME**
-I'm a **self-taught passionate Full Stack Developer** from Pakistan with **4+ years of professional experience**. I'm a **Top Rated freelancer on Upwork** where I've built a reputation for delivering high-quality web applications and solutions. I love being in this line of work because I'm passionate about **technology and innovation**.
+I'm a **self-taught passionate Full Stack Developer** from Pakistan with **8+ years of professional experience**. I'm a **Top Rated freelancer on Upwork** where I've built a reputation for delivering high-quality web applications and solutions. I love being in this line of work because I'm passionate about **technology and innovation**.
 
 I specialize in building scalable web applications using **PHP/Laravel**, **Vue.js**, **Node.js**, and modern JavaScript frameworks. Every project is an opportunity to create something amazing and solve real-world problems with clean, efficient code.
 
